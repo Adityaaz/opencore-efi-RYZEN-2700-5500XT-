@@ -1,0 +1,1 @@
+# opencore-efi-RYZEN-2700-5500XT-ASUS_X470 PRIME
